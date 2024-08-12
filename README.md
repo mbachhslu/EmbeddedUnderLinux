@@ -6,3 +6,5 @@
    ./hello
    ```
 
+## Contributing
+Fork this repository and make a pull request to contribute
